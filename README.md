@@ -1,4 +1,4 @@
-# goit-js-hw-02
+# goit-js-hw-03
 
 // Task-01-js
 
@@ -7,6 +7,3 @@
 
 
 // Task-03-js
-
-
-// Task-04-js
